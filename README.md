@@ -178,7 +178,9 @@ $length,14,x,y,w,h,class_name#
 ```text
 README.md
 assets/
-└── steel-ball-detection.jpg
+├── steel-ball-detection.jpg
+├── k230-vision-motor-demo.gif     实机演示动图预览
+└── k230-vision-motor-demo.mp4     原始实机视频
 20.Myself/
 ├── new/                          YOLOv5 部署资源
 ├── new2/                         416 检测、图像采集和相机标定脚本
