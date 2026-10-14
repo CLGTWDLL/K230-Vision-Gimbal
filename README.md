@@ -6,6 +6,14 @@
 
 *项目钢球检测输出。*
 
+## Demo
+
+K230 视觉与电机联调实机演示，展示相机、钢球轨道与控制板。
+
+<img src="assets/k230-vision-motor-demo.gif" alt="K230 视觉与电机联调实机演示" width="240" />
+
+[查看原始 MP4 视频](assets/k230-vision-motor-demo.mp4)
+
 ## 项目简介
 
 ### K230 钢球视觉检测与端侧部署
